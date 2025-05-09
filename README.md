@@ -1,6 +1,10 @@
 CST8918 - DevOps: Infrastructure as Code  
 Prof: Robert McKenney
 
+## screenshot : 
+
+<img width="1470" alt="Screenshot 2025-05-08 at 7 53 30 PM" src="https://github.com/user-attachments/assets/648d2492-7605-4027-b3eb-7895523e845d" />
+
 # LAB-A01 Weather App
 
 In this hands-on lab activity we will lay the foundations for adopting infrastructure as code (IaC) using a simple Node.js based web application and Kubernetes on Docker Desktop.
